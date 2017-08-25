@@ -1,0 +1,71 @@
+.divisao4{
+	height:100%;
+	background-color:#0071BF;
+	margin-right: -19px;
+	margin-left:-10px;
+	margin-top:-20px;
+	padding-top:50px;
+	padding-bottom:100px;
+	
+}
+.botao input:hover{
+	background-color: white;
+	color: #0071BF;
+
+}
+.divisao4 h1,h2,input{
+	margin-left:150px;
+	color:white;
+	font-weight: 100;
+	
+}
+.divisao4 h2{
+	font-size: 13px;
+	margin-bottom:0px;
+}
+.divisao4 input,textarea{
+	margin-left:150px;
+	margin-bottom:30px;
+	background-color:#0065AB;	
+	width:250px;
+	height:40px;
+	color:white;
+}
+.botao  input{
+	border: 2px solid;
+    border-radius: 50px;
+	width:100px;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	background-color: #0071BF;
+}
+.divbot input{
+	width:50px;
+	height:40px;
+}
+.rodape img{
+	width: 100px;
+	right: 30px;	
+	padding-top: 25px;
+	margin-left: 150px;
+}
+.rodape{	
+	height: 120px;
+	width: 100%;
+	background-color: #192124;	
+	padding-bottom:0px;
+	padding-right: 27px;		
+	padding-top:20px;
+	margin-left: -8px;
+	margin-top:0px;
+	
+}
+.rodape h1{
+	text-align:right;
+	color:white;
+	font-size:13px;	
+	margin-right:200px;
+	margin-top:-25px;
+}
+

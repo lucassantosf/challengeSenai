@@ -1,0 +1,26 @@
+Copiar arquivos do C:
+Criar pasta workspace na area de trabalho
+Configurar servidor Tomcat no Eclipse
+Criar projeto Dynamic Web Project, marcar opção para gerar arquivo XML.
+Colar arquivos HTML_Sptring para a pasta WebContent
+Testar se o index esta sendo inicializada
+Pasta css e js dentro da pasta resources(criar esta nova) - ir em WebContent(direito-new folder)
+Alterar no html do index e formulario para herdar o css do novo diretório
+Dentro do java resources/src, criar um packege e dentro um Enum
+
+
+
+<mvc:annotation-driven />
+<mvc:default-servlet-handler />
+<context:component-scanc base=>
+
+
+
+https://github.com/senai-sp/aulaspringmvc/tree/master/SetimoContato/WebContent
+
+hibernate versao 5.0
+
+
+bit.ly/frontend-javascript
+
+kevin.shih@sp.senai.br
