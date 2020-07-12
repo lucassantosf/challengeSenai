@@ -4,7 +4,7 @@ This simple landing page were made on 2016 to test my hability on frontend using
 
 # Description 
 
-This repository contain a challenge fronted when I coursed "Web-Mobile developer" on [Senai](https://informatica.sp.senai.br/), used to level the knowledge of all students that were there.
+This repository contain the first challenge frontend from the course "Web-Mobile developer" on [Senai](https://informatica.sp.senai.br/), used to level the knowledge of all students that were there.
 I admit that frontend weren't my dream that time :) and I coded thinkin' only on desktop view.
 
 ## Get Started 
